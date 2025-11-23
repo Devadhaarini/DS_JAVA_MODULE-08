@@ -18,8 +18,8 @@ To implement a program that tracks the first unique (non-repeating) number in a 
 ```java
 /*
 Program to tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
-Developed by: Nandakesore J
-Register Number: 212223240103
+Developed by: Devadhaarini D
+Register Number: 212223230040
 */
 
 import java.util.*;
